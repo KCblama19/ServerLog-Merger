@@ -104,7 +104,7 @@ Want to contribute? Fork this repo and create a pull request! Or open an issue w
 This project is open source and free to use under the MIT License.
 
 ## Author
-Abraham K.C. Blam. 
+Abraham K.C. Blam.  
 Email: abrahamblama19@gmail.com  
 GitHub: @KCblama19  
 
