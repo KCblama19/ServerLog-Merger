@@ -51,12 +51,13 @@ python log_merger.py [--input_folder INPUT_FOLDER] [--output_folder OUTPUT_FOLDE
 ```
 
 ## Example Folder Structure
+```bash
 mergeSortProject/
 ├── server1.log
 ├── server2.log
 ├── server3.log
 ├── log_merger.py
-
+```
 ## Example Log File Format (Required)
 Each log line should begin with a timestamp
 ``` bash
@@ -103,9 +104,9 @@ Want to contribute? Fork this repo and create a pull request! Or open an issue w
 This project is open source and free to use under the MIT License.
 
 ## Author
-Abraham K.C. Blama
-Email: abrahamblama19@gmail.com
-GitHub: @KCblama19
+Abraham K.C. Blam. 
+Email: abrahamblama19@gmail.com  
+GitHub: @KCblama19  
 
 ## Support
 If you found this project helpful, consider giving it a ⭐ on GitHub or sharing it with others!
